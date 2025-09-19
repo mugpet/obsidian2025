@@ -29,17 +29,7 @@
               "state": {
                 "file": "2025-09-19.md",
                 "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2025-09-19"
@@ -197,9 +187,19 @@
               "icon": "file-digit",
               "title": "Strange New Worlds"
             }
+          },
+          {
+            "id": "0e28ff809006976b",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -214,25 +214,26 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "0549035613191891",
   "lastOpenFiles": [
     "Tools.md",
+    "image.png",
+    "Kortex.md",
+    "Pasted image 20240919084337.png",
+    "Pasted image 20240919084743.png",
+    "Pasted image 20240919084754.png",
     "2025-09-19.md",
     "NNE TIC2.md",
-    "Kortex.md",
-    "Pasted image 20240919084754.png",
     "23091 Unitprice lookup doesn't open window.md",
     "23092 Minor display changes, group lookup, subtotal.md",
-    "image.png",
     "Untitled.base",
-    "Pasted image 20240919084337.png",
     "Welcome.md",
     "Untitled.canvas",
     "Untitled 1.canvas",
-    "Pasted image 20240919084743.png",
     "Untitled 2.canvas",
     "2025-03-14.md",
     "2025-01-13.md",
