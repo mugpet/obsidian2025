@@ -3,7 +3,6 @@ id: Tools
 aliases: []
 tags: []
 ---
-
 New cool tools that may be intresting
 
 # News
@@ -28,7 +27,6 @@ This content is available in Anytype.
 Follow [link](https://anytype.io) to ask a permission to get the content
 
 ---
-
 # Other tools
 
 - Descript

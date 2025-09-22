@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-09-19.md",
+                "file": "Kortex.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-19"
+              "title": "Kortex"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,18 +217,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0549035613191891",
+  "active": "8f7c191e7c58c374",
   "lastOpenFiles": [
-    "Tools.md",
-    "image.png",
     "Kortex.md",
+    "2025-09-19.md",
+    "image.png",
+    "23092 Minor display changes, group lookup, subtotal.md",
+    "23091 Unitprice lookup doesn't open window.md",
+    "Tools.md",
     "Pasted image 20240919084337.png",
     "Pasted image 20240919084743.png",
     "Pasted image 20240919084754.png",
-    "2025-09-19.md",
     "NNE TIC2.md",
-    "23091 Unitprice lookup doesn't open window.md",
-    "23092 Minor display changes, group lookup, subtotal.md",
     "Untitled.base",
     "Welcome.md",
     "Untitled.canvas",
